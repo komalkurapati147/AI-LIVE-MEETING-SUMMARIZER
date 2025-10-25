@@ -1,0 +1,19 @@
+# Environment variables (Contains secrets - DO NOT COMMIT!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary audio files created by the app
+temp_recording_*.wav
+uploaded_*.wav
+uploaded_*.mp3
+uploaded_*.m4a
+uploaded_*.ogg
+
+# Optional: IDE configuration folder (example for VSCode)
+.vscode/
+
+# Optional: macOS specific files
+*.DS_Store
