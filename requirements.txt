@@ -1,6 +1,8 @@
-streamlit-audiorec
 streamlit
-python-dotenv
-fpdf
-groq
+streamlit-audiorec
 openai-whisper
+torch
+fpdf2
+python-dotenv
+groq
+Pillow
