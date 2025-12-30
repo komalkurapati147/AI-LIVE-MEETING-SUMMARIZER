@@ -1,4 +1,4 @@
-                            \# AI Live Meeting Summarizer
+                            
 
 # AI Live Meeting Summarizer
 
